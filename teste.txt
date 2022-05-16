@@ -1,2 +1,2 @@
-Teste 
-teste 
+# Teste 
+### Bom, como o próprio nome já diz, esse é um teste para me familiarizar um pouco mais com a plataforma do GitHub e as funcionalidades do Git. 
